@@ -2,7 +2,7 @@
 ## HelloWorld
 
 ### App Description
-`TODO://` When the user clicks the button, the text changes color.
+When the user clicks the button "Change text color", the text "Hello from Da Sol!" changes color.
 
 ### App Walk-though
 <img src="http://g.recordit.co/HMu32SKAwi.gif" width=200><br>
